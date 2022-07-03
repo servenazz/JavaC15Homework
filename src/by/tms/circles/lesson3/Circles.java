@@ -19,10 +19,34 @@ public class Circles {
         } else {
             System.out.println("The entered number does not fall in the required range!");
         }
+
+        // Задание 3. Осадки
+        Scanner nextScanner = new Scanner(System.in);
+        System.out.println ("Please enter the number of days");
+        int variable1 = nextScanner.nextInt();
+
+
+        }
+
     }
-}
-        // Задание 2.
-        // Написать программу, вычисляющую и отображающую все числа Фибоначчи меньше введенного
-        // пользователем целого числа
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
